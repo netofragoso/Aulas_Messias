@@ -1,0 +1,7 @@
+casa
+carro
+moça
+lima
+
+5
+5
